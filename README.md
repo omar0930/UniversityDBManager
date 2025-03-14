@@ -38,8 +38,6 @@ The system successfully manages university records with high efficiency, providi
 - User-friendly interaction for data management
 
 ## Technologies Used
-- Python
-- Flask/Django (for backend development)
 - MySQL/PostgreSQL (for database management)
 - SQLAlchemy (for ORM)
-- HTML, CSS, JavaScript (for frontend, if applicable)
+
